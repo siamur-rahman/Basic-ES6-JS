@@ -49,7 +49,7 @@ const result3 = add3(15);
 console.log(result3);
 
 /*option-3 ES-6..........................
-function add(num1, num2 = 0) {
+function add(num1, num2 = 0) { //ekhane default parameter use kora hoiche
 
    // num2 = num2 || 0;
 
